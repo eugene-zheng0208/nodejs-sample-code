@@ -1,0 +1,11 @@
+module.exports.info = require('./info');
+module.exports.register = require('./register');
+module.exports.login = require('./login');
+module.exports.me = require('./me');
+module.exports.vehicle = require('./vehicle');
+module.exports.institute = require('./institute');
+module.exports.route = require('./route');
+module.exports.file_serve = require('./file_serve');
+module.exports.routePassenger = require('./route_passenger');
+module.exports.traveller = require('./traveller');
+module.exports.device = require('./device');

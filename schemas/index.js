@@ -1,0 +1,9 @@
+module.exports.token = require('./token');
+module.exports.user = require('./user');
+module.exports.institute = require('./institute');
+module.exports.vehicle = require('./vehicle');
+module.exports.route = require('./route');
+module.exports.routePassenger = require('./route_passenger');
+module.exports.traveller = require('./traveller');
+module.exports.feedback = require('./feedback');
+module.exports.device = require('./device');
